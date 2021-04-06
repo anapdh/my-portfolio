@@ -7,15 +7,15 @@ body {
 }
 
 .primary-color {
-  background-color: #41d3bd;
+  background-color: #3abeab;
 }
 
 .primary-color-t {
-  color:  #41d3bd;
+  color: #3abeab;
 }
 
 .secundary-color {
-  color: #515152;
+  color: #3d3d3d;
 }
 
 .bold {
@@ -46,6 +46,6 @@ body {
 
 .specification-list li::before {
   content: "•";
-  color: #41d3bd;
+  color: #3abeab;
   margin-right: 10px;
 }
