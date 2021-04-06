@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f7f7;
+  background-image: url("/assets/images/pattern1 2.png");
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+.primary-color {
+  background-color: #41d3bd;
+}
+
+.primary-color-t {
+  color:  #41d3bd;
+}
+
+.secundary-color {
+  color: #515152;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.navbar-logo {
+  width: 50%;
+  margin-left: 10px;
+}
+
+.navbar-logo2 {
+  width: 100%;
+}
+
+.main-nav i {
+  color: white;
+  font-size: 14px;
+}
+
+.content-section {
+  background-image: url("/assets/images/pattern2 2.png");
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+
+/* DETAILS */
+
+.specification-list li::before {
+  content: "•";
+  color: #41d3bd;
+  margin-right: 10px;
+}
