@@ -1,7 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f7f7f7;
-  background-image: url("/assets/images/pattern1.png");
+  background-image: url("../images/pattern1.png");
   background-position: top right;
   background-repeat: no-repeat;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .content-section {
-  background-image: url("/assets/images/pattern2.png");
+  background-image: url("../images/pattern2.png");
   background-position: left bottom;
   background-repeat: no-repeat;
 }
