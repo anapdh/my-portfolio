@@ -7,11 +7,11 @@ body {
 }
 
 .primary-color {
-  background-color: #3abeab;
+  background-color: #34a594;
 }
 
 .primary-color-t {
-  color: #3abeab;
+  color: #34a594;
 }
 
 .secundary-color {
@@ -46,6 +46,6 @@ body {
 
 .specification-list li::before {
   content: "•";
-  color: #3abeab;
+  color: #34a594;
   margin-right: 10px;
 }
