@@ -2,7 +2,9 @@
 
 Want to know a little bit more about me and check my featured projects?
 
-So check out my [portfolio](https://anapdh.github.io/my-portfolio/) page!
+So check out my [Portofolio Page](https://anapdh.github.io/my-portfolio/)!
+
+Thanks for visiting! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Author
 
