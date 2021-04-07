@@ -6,6 +6,10 @@ body {
   background-repeat: no-repeat;
 }
 
+body a:hover {
+  color: #faa1d5;
+}
+
 .primary-color {
   background-color: #34a594;
 }
