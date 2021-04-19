@@ -6,6 +6,12 @@ So check out my [Portofolio Page](https://anapdh.github.io/my-portfolio/)!
 
 Thanks for visiting! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## Built With
+
+- HTML & CSS
+- Bootstrap
+- Git & GitHub
+
 ## Author
 
 👩🏼‍💻 **Ana Paula Hübner**
