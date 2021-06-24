@@ -2,7 +2,7 @@
 
 Want to know a little bit more about me and check my featured projects?
 
-So check out my [Portofolio Page](https://anapdh.github.io/my-portfolio/)!
+So check out my [Portofolio Page](https://anahubner-portfolio.netlify.app/)!
 
 Thanks for visiting! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
