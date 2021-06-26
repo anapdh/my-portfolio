@@ -19,7 +19,7 @@ body a:hover {
 }
 
 .primary-color-t {
-  color: #358873;
+  color: #317256;
 }
 
 .secondary-color {
@@ -28,6 +28,10 @@ body a:hover {
 
 .bold {
   font-weight: bold;
+}
+
+.fa-size {
+  font-size: 25px !important;
 }
 
 .navbar-logo {
