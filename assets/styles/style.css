@@ -11,19 +11,27 @@ body a:hover {
 }
 
 .primary-color {
-  background-color: #34a594;
+  background-color: #a1dad4;
+}
+
+.primary-color-2 {
+  background-color: #a1dad4;
 }
 
 .primary-color-t {
-  color: #34a594;
+  color: #317256;
 }
 
-.secundary-color {
-  color: #333232;
+.secondary-color {
+  color: #333232 !important;
 }
 
 .bold {
   font-weight: bold;
+}
+
+.fa-size {
+  font-size: 25px !important;
 }
 
 .navbar-logo {
@@ -50,6 +58,6 @@ body a:hover {
 
 .specification-list li::before {
   content: "•";
-  color: #34a594;
+  color: #358873;
   margin-right: 10px;
 }
