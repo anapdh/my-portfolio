@@ -11,15 +11,19 @@ body a:hover {
 }
 
 .primary-color {
-  background-color: #358873;
+  background-color: #a1dad4;
+}
+
+.primary-color-2 {
+  background-color: #a1dad4;
 }
 
 .primary-color-t {
   color: #358873;
 }
 
-.secundary-color {
-  color: #333232;
+.secondary-color {
+  color: #333232 !important;
 }
 
 .bold {
