@@ -11,11 +11,11 @@ body a:hover {
 }
 
 .primary-color {
-  background-color: #34a594;
+  background-color: #358873;
 }
 
 .primary-color-t {
-  color: #34a594;
+  color: #358873;
 }
 
 .secundary-color {
@@ -50,6 +50,6 @@ body a:hover {
 
 .specification-list li::before {
   content: "•";
-  color: #34a594;
+  color: #358873;
   margin-right: 10px;
 }
