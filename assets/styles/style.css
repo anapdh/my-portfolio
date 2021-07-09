@@ -1,9 +1,9 @@
 body {
   font-family: poppins, Arial, Helvetica, sans-serif;
   background-color: #f7f7f7;
-  background-image: url("../images/pattern1.png");
-  background-position: top right;
-  background-repeat: no-repeat;
+  background-image: url("../images/pattern1.png"), url("../images/pattern2.png");
+  background-position: top right, left bottom;
+  background-repeat: no-repeat, no-repeat;
 }
 
 body a:hover {
@@ -49,9 +49,7 @@ body a:hover {
 }
 
 .content-section {
-  background-image: url("../images/pattern2.png");
-  background-position: left bottom;
-  background-repeat: no-repeat;
+
 }
 
 /* DETAILS */
