@@ -7,7 +7,7 @@ body {
 }
 
 body a:hover {
-  color: #faa1d5;
+  color: #faa1d5 !important;
 }
 
 .primary-color {
